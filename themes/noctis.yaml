@@ -43,7 +43,6 @@ noctis custom:
   header-height: 48px
   accent-color: '#1A89F5'
   accent-medium-color: 'var(--accent-color)'
-  rgb-blue-color: 26, 137, 245
 
   # Background
   background-color: '#242e42'
@@ -128,17 +127,6 @@ noctis custom:
   # Alarm
   alarm-color-armed: 'rgba(247,53,67,1)'
 
-  # State Colors
-  rgb-state-automation-color: var(--rgb-blue-color)
-  rgb-state-binary-sensor-color: var(--rgb-blue-color)
-  rgb-state-fan-color: var(--rgb-blue-color)
-  rgb-state-group-color: var(--rgb-blue-color)
-  rgb-state-light-color: var(--rgb-blue-color)
-  rgb-state-input-boolean-color: var(--rgb-blue-color)
-  rgb-state-media-player-color: var(--rgb-blue-color)
-  rgb-state-script-color: var(--rgb-blue-color)
-  rgb-state-switch-color: var(--rgb-blue-color)
-  rgb-state-timer-color: var(--rgb-blue-color)
 
   # Card-Mod #####################################################################
   # Uncomment the Code below if you have card-mod installed and want blur effect #
